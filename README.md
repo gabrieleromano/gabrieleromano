@@ -4,6 +4,8 @@
 
 ### Computer Engineer
 
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 I am passionate about 
 📷 photography
 🎨 graphic
@@ -12,5 +14,5 @@ I am passionate about
 Support me
 
 <a href="https://ko-fi.com/gabrieleromano" target="_blank">
-  <img src="https://cdn.ko-fi.com/cdn/kofi3.png" width="150" height="auto" />
+  <img src="https://cdn.ko-fi.com/cdn/kofi3.png" width="75" height="auto" />
 </a>
