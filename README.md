@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-I'm Gabriele Romano
+# I'm Gabriele Romano
 
-Computer Engineer
+# Computer Engineer
 
 I am passionate about 
-- 📷 photography
-- 🎨 graphic
-- 🎵 music
+📷 photography
+🎨 graphic
+🎵 music
 
 Support me
 https://ko-fi.com/gabrieleromano
