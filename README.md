@@ -12,7 +12,8 @@ I am passionate about
 🎵 music
 
 
-Support me
+
 <a href="https://ko-fi.com/gabrieleromano" target="_blank">
+  <span> Support me </span>
   <img src="https://cdn.ko-fi.com/cdn/kofi3.png" width="105" height="auto" />
 </a>
