@@ -10,4 +10,4 @@ I am passionate about
 🎵 music
 
 Support me
-[![Support me on Ko-fi](https://cdn.ko-fi.com/cdn/kofi3.png)]{: width="150px"}(https://ko-fi.com/gabrieleromano)
+![Ko-fi](https://cdn.ko-fi.com/cdn/kofi3.png){: width="150px"}(https://ko-fi.com/gabrieleromano)
