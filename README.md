@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-## I'm Gabriele Romano
+### I'm Gabriele Romano
 
-## Computer Engineer
+### Computer Engineer
 
 I am passionate about 
 📷 photography
@@ -10,4 +10,7 @@ I am passionate about
 🎵 music
 
 Support me
-![Ko-fi](https://cdn.ko-fi.com/cdn/kofi3.png){: width="150px"}(https://ko-fi.com/gabrieleromano)
+
+<a href="https://ko-fi.com/gabrieleromano" target="_blank">
+  <img src="https://cdn.ko-fi.com/cdn/kofi3.png" width="150" height="auto" />
+</a>
